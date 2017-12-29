@@ -1,0 +1,9 @@
+---
+buildName: "pisauthorizeconsentstub"
+links:
+  Git: "http://gogs/gogsadmin/pisauthorizeconsentstub.git"
+  Job: "http://jenkins.f8.ms.vphtechlab.com/job/pisauthorizeconsentstub"
+  Testing: "http://100.68.105.92:80/kubernetes/pods?namespace=f8-testing"
+environments:
+  Testing: "f8-testing"
+useLocalFlow: true
